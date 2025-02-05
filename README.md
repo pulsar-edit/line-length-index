@@ -1,3 +1,5 @@
+# This repository is archived under Pulsar due to no longer being in use. This module was remove from `atom/text-buffer` in [`atom/text-buffer#181`](https://github.com/atom/text-buffer/pull/181).
+
 # line-length-index
 
 This is a module used by Atom to keep track of the row with the longest line
